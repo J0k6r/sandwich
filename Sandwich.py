@@ -4,7 +4,7 @@ Author: Kaleb Quinn
 Purpose: 
 Date: 03/01/2026
 """
-# Part 1 - Making Sandwiches
+# Part 1 - Making Sandwiche
 
 sandwich_orders = ['tuna', 'turkey', 'blt', 'veggie', 'club']
 finished_sandwiches = []
@@ -36,4 +36,3 @@ while sandwich_orders_2:
 print("\nAll done! Here's what was made:")
 for sandwich in finished_sandwiches_2:
     print(sandwich)
-      
